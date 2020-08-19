@@ -39,7 +39,7 @@
     "phaser-glsl-loader": "*",
     "plato": "1.x.x",
     "webpack": "^1.7.3",
-    "webpack-dev-server": "^1.7.0",
+    "webpack-dev-server": "^3.11.0",
     "p2": "0.x.x",
     "phaser-debug": "1.x.x",
     "pixi.js": "2.x.x"
